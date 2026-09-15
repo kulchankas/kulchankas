@@ -12,8 +12,8 @@ Second-year **Mathematical Foundation of Data Science** student at the Universit
 
 | Project | What it is |
 | :-- | :-- |
+| [**mfds_univie_first_year**](https://kulchankas.github.io/mfds_univie_first_year/) | A self-built study hub for first-year university mathematics: study plans, flashcard decks and progress tracking. |
 | [**paranoid**](https://github.com/kulchankas/paranoid) | A security agent skill for Claude Code, Codex and Cursor. Its `/hack-me` command pentests your own running app on localhost — finding, proving, patching and re-verifying real vulnerabilities. |
-| [**MFDS study hub**](https://kulchankas.github.io/mfds_univie_first_year/) | A self-built study site for first-year university mathematics: study plans, flashcard decks and progress tracking. |
 
 ### Toolbox
 
