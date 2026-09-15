@@ -2,9 +2,7 @@
 
 Second-year student of **Mathematical Foundation of Data Science** at the **University of Vienna**.
 
-```math
-\text{interests} = \{\, \text{mathematics},\ \text{cybersecurity},\ \text{machine learning} \,\}
-```
+<p align="center"><code>interests = { mathematics, cybersecurity, machine learning }</code></p>
 
 #### Interests
 
