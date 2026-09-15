@@ -2,9 +2,9 @@
 
 Second-year student of **Mathematical Foundation of Data Science** at the **University of Vienna**.
 
-$$
-\text{interests} \;=\; \lbrace\, \text{mathematics},\; \text{cybersecurity},\; \text{machine learning} \,\rbrace
-$$
+```math
+\text{interests} = \{\, \text{mathematics},\ \text{cybersecurity},\ \text{machine learning} \,\}
+```
 
 #### Interests
 
