@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Sofiya — Mathematical Foundation of Data Science, University of Vienna. Working where mathematics, security and machine learning meet." />
+<img src="assets/banner-light.svg" width="100%" alt="Sofiya — Mathematical Foundation of Data Science, University of Vienna. Working where mathematics, security and machine learning meet." />
 
 ### Hi, I'm Sofiya 👋
 
