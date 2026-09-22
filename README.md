@@ -1,4 +1,4 @@
-<img src="assets/cover.svg" width="100%" alt="Sofiya — Mathematical Foundation of Data Science, University of Vienna. Working where mathematics, security and machine learning meet." />
+<img src="assets/banner.svg" width="100%" alt="Sofiya — Mathematical Foundation of Data Science, University of Vienna. Working where mathematics, security and machine learning meet." />
 
 ### Hi, I'm Sofiya 👋
 
@@ -14,6 +14,6 @@ Second-year **Mathematical Foundation of Data Science** student at the Universit
 
 #### Toolbox
 
-<img src="https://skillicons.dev/icons?i=python,r,julia,linux,kali" alt="Python, R, Julia, Linux, Kali Linux" />
+<img src="https://skillicons.dev/icons?i=python,r,julia,latex,sklearn,bash,git,vscode,linux,kali" alt="Python, R, Julia, LaTeX, scikit-learn, Bash, Git, VS Code, Linux, Kali Linux" />
 
 <sub>Languages: English · Russian · Belarusian · Polish</sub>
