@@ -1,5 +1,3 @@
-<img src="assets/banner-light.svg" width="100%" alt="Sofiya — Mathematical Foundation of Data Science, University of Vienna. Working where mathematics, security and machine learning meet." />
-
 ### Hi, I'm Sofiya 👋
 
 Second-year **Mathematical Foundation of Data Science** student at the University of Vienna — working where rigorous mathematics meets security and machine learning.
