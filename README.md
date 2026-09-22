@@ -12,8 +12,4 @@ Second-year **Mathematical Foundation of Data Science** student at the Universit
 - 🛠️ Author of [**paranoid**](https://github.com/kulchankas/paranoid) — a security agent skill that pentests your own running app, then proves and patches what it finds
 - 💬 Reach me at **kulchankas@gmail.com**
 
-#### Toolbox
-
-<img src="https://skillicons.dev/icons?i=python,r,julia,latex,sklearn,bash,git,vscode,linux,kali" alt="Python, R, Julia, LaTeX, scikit-learn, Bash, Git, VS Code, Linux, Kali Linux" />
-
 <sub>Languages: English · Russian · Belarusian · Polish</sub>
